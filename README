@@ -1,6 +1,8 @@
 jsf20Portlet
 
-JBoss GateIn JSF2.0
-日本語テスト
-～㎜㈱
-①Ⅰⅰ
+JBoss GateIn Portlet2.0, JSF2.0専用ポートレット
+
+<問題点>
+表示した画面に~com.sun.faces.saveStateFieldMarker~が表示される。
+ポートレットブリッジがベータなのが原因なのか、JSF側に原因があるのか不明。
+今後、WEBで調べていくと共に、ポートレットブリッジを最新版に更新して状況を確認する。
